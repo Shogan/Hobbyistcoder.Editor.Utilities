@@ -7,3 +7,5 @@ Useful editor extensions and utilities for Unity 3D
 - Choose a replacement color
 - Choose a variance (colors can sometimes vary very slightly based on what was picked) - so use a low variance like 0.01 to ensure that similar colors are not replaced too.
 - Hit replace to replace all sprite colors in the scene that match the picked color within variance range with the chosen color
+
+![find and replace sprite color](http://i.imgur.com/rRU2anH.gif)
